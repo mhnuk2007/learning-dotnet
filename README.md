@@ -18,6 +18,10 @@ Small .NET console apps for practicing core C# concepts.
 | `For-Loop` | `for`, `foreach`, character counting | `For-Loop/Program.cs` |
 | `While-Loop` | `while` and `do/while` loops with user input | `While-Loop/Program.cs` |
 | `ContinueBreak` | `break` and `continue` in loops | `ContinueBreak/Program.cs` |
+| `StringParsing` | `Parse` / `TryParse` with `NumberStyles` and `CultureInfo` | `StringParsing/Program.cs` |
+| `String-Builder` | `StringBuilder` append, replace, insert, remove, and formatting | `String-Builder/Program.cs` |
+| `StringInterpolation` | String interpolation, alignment, and inline expressions | `StringInterpolation/Program.cs` |
+| `StringFormatting` | Composite formatting, numeric specifiers, and table-style output | `StringFormatting/Program.cs` |
 | `StringOperations` | String APIs, searching, formatting, `StringBuilder` | `StringOperations/Program.cs` |
 | `ExceptionHandler` | `try/catch`, specific exceptions, `finally`, `throw` | `ExceptionHandler/Program.cs` |
 

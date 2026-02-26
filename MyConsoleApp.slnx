@@ -7,6 +7,10 @@
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="MyConsoleApp/MyConsoleApp.csproj" />
   <Project Path="Operators/Operators.csproj" />
+  <Project Path="String-Builder/String-Builder.csproj" />
+  <Project Path="StringFormatting/StringFormatting.csproj" />
+  <Project Path="StringInterpolation/StringInterpolation.csproj" />
   <Project Path="StringOperations/StringOperations.csproj" />
+  <Project Path="StringParsing/StringParsing.csproj" />
   <Project Path="While-Loop/While-Loop.csproj" />
 </Solution>
