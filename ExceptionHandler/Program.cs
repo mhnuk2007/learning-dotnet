@@ -19,7 +19,7 @@ try
     result = x / y;
     Console.WriteLine(result);
 }
-catch (DivideByZeroException ex)
+catch (DivideByZeroException)
 {
     Console.WriteLine("You cannot divide by zero.");
 }
@@ -78,7 +78,7 @@ catch (ArgumentOutOfRangeException ex)
 {
     Console.WriteLine(ex.Message);
 }
-catch (DivideByZeroException ex)
+catch (DivideByZeroException)
 {
     Console.WriteLine("You cannot divide by zero.");
 }

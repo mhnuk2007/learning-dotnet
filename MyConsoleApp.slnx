@@ -1,2 +1,12 @@
 <Solution>
+  <Project Path="Comments/Comments.csproj" />
+  <Project Path="Conditionals/Conditionals.csproj" />
+  <Project Path="ContinueBreak/ContinueBreak.csproj" />
+  <Project Path="ExceptionHandler/ExceptionHandler.csproj" />
+  <Project Path="For-Loop/For-Loop.csproj" />
+  <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="MyConsoleApp/MyConsoleApp.csproj" />
+  <Project Path="Operators/Operators.csproj" />
+  <Project Path="StringOperations/StringOperations.csproj" />
+  <Project Path="While-Loop/While-Loop.csproj" />
 </Solution>

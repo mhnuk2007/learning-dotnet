@@ -22,7 +22,7 @@ Console.WriteLine("do-while() loop:");
 do
 {
     Console.Write("Enter a string: ");
-    inputStr = Console.ReadLine();
+    inputStr = Console.ReadLine() ?? "";
     Console.WriteLine($"You entered: {inputStr}");
 }
 while (inputStr != "exit");
