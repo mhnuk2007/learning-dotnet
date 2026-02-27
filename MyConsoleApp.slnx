@@ -4,10 +4,16 @@
   <Project Path="ContinueBreak/ContinueBreak.csproj" />
   <Project Path="ExceptionHandler/ExceptionHandler.csproj" />
   <Project Path="For-Loop/For-Loop.csproj" />
+  <Project Path="FunctionBasics/FunctionBasics.csproj" />
+  <Project Path="FunctionCodeChallenge/FunctionCodeChallenge.csproj" />
+  <Project Path="FunctionMultiValues/FunctionMultiValues.csproj" />
+  <Project Path="FunctionParams/FunctionParams.csproj" />
+  <Project Path="FunctionRefOutParams/FunctionRefOutParams.csproj" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
   <Project Path="MyConsoleApp/MyConsoleApp.csproj" />
   <Project Path="Operators/Operators.csproj" />
   <Project Path="String-Builder/String-Builder.csproj" />
+  <Project Path="StringCodeChallenge/StringCodeChallenge.csproj" />
   <Project Path="StringFormatting/StringFormatting.csproj" />
   <Project Path="StringInterpolation/StringInterpolation.csproj" />
   <Project Path="StringOperations/StringOperations.csproj" />
