@@ -1,4 +1,9 @@
 <Solution>
+  <Project Path="ClassesCodeChallenge/ClassesCodeChallenge.csproj" />
+  <Project Path="ClassesInheritance/ClassesInheritance.csproj" />
+  <Project Path="ClassesModifiers/ClassesModifiers.csproj" />
+  <Project Path="ClassesProperties/ClassesProperties.csproj" />
+  <Project Path="ClassesStringRep/ClassesStringRep.csproj" />
   <Project Path="Comments/Comments.csproj" />
   <Project Path="Conditionals/Conditionals.csproj" />
   <Project Path="ContinueBreak/ContinueBreak.csproj" />
